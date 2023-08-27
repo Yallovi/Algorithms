@@ -39,3 +39,5 @@ function containsDuplicateSecondVariant(nums) {
 }
 
 console.log('second variant', containsDuplicateSecondVariant(nums))
+
+    
